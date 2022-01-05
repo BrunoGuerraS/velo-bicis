@@ -41,13 +41,14 @@ header{
 
     width: 100vw;
     height: 100vh;
-    max-width: 1400px;
+    /* max-width: 1400px; */
     background-image: url(../images/backg_home.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .image__home{
+    width: 350px;
     margin-left: 60px;
     margin-top: 95px;
 }
@@ -56,8 +57,9 @@ header{
 /* ----seccion 2-------- */
 
 .section2{
-    background-image: url(../images/geometric.png);
-    overflow: hidden;
+    /* background-image: url(../images/geometric.png); */
+    /* overflow: hidden; */
+    height: 700px;
 }
 .section2 h2{
     display: inline-block;
